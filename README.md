@@ -1,6 +1,6 @@
 # Awesome Multi-Task Learning
 
-By [Jialong Wu](https://github.com/Manchery).
+Forkk from [Jialong Wu](https://github.com/Manchery).
 
 I greatly appreciate those surveys below, which help me a lot. *Please let me know if you find any mistakes or omissions!*
 
